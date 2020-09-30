@@ -1,1 +1,2 @@
 the code for home page is here.
+added some css stylings to home page.
