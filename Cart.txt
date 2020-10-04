@@ -1,3 +1,2 @@
 basline code.
-hundred
 three
